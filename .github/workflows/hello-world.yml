@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: actions/checkout@v2
-        run: make say-hello
+        run: say-hello
 
